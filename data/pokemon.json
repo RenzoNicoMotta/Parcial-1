@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mudkip",
+    "type": "water",
+    "gen": 3
+  },
+  {
+    "id": 2,
+    "name": "Torchick",
+    "type": "fire",
+    "gen": 3
+  },
+  {
+    "id": 3,
+    "name": "treecko",
+    "type": "grass",
+    "gen": 3
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "type": "fire",
+    "gen": 1
+  },
+  {
+    "id": 5,
+    "name": "Chikorita",
+    "type": "grass",
+    "gen": 2
+  }
+]
